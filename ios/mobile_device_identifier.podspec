@@ -13,7 +13,7 @@ A new Flutter plugin project.
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Nafi Alfanthariq' => 'mnalfanthariq@gmail.com' }
   s.source           = { :path => '.' }
-  s.source_files = 'Classes/**/*'
+  s.source_files = 'mobile_device_identifier/Sources/mobile_device_identifier/**/*'
   s.dependency 'Flutter'
   #s.dependency 'JNKeychain'
   s.platform = :ios, '11.0'
